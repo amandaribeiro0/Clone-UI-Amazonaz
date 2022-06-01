@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src=https://github.com/amandaribeiro0/Clone-UI-Amazonaz/blob/main/Clone-UI-Amazon-main/public/github/logo-amazonaz.png alt="logo" height="75"/>
+  <img src=https://github.com/amandaribeiro0/Clone-UI-Amazonaz/blob/main/Clone-UI-Amazonaz/public/github/logo-amazonaz.png alt="logo" height="75"/>
 </h4>
 
 <h1 align="center">
