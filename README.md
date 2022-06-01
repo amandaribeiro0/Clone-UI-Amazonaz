@@ -1,5 +1,5 @@
 <h4 align="center">
-  <img src=https://github.com/amandaribeiro0/Clone-UI-Amazonaz/blob/main/Clone-UI-Amazonaz/public/github/logo-amazonaz.png alt="logo" height="75"/>
+  <img src=https://github.com/amandaribeiro0/Clone-UI-Amazonaz/blob/main/public/github/logo-amazonaz.png alt="logo" height="75"/>
 </h4>
 
 <h1 align="center">
@@ -31,10 +31,10 @@
 UI Clone do Site da Amazon usando ReactJs,Node e Bootstrap. Esse Projeto foi realizado com fins educativos.
 
 ### ✅ Demonstração
-<img src="https://github.com/amandaribeiro0/Clone-UI-Amazonaz/blob/main/Clone-UI-Amazon-main/public/github/Home.png" />
-<img src="https://github.com/guigams/Clone-UI-Amazonaz/blob/main/Clone-UI-Amazon-main/public/github/cards.png" />
-<img src="https://github.com/guigams/Clone-UI-Amazonaz/blob/main/Clone-UI-Amazon-main/public/github/carousel.png" />
-<img src="https://github.com/guigams/Clone-UI-Amazonaz/blob/main/Clone-UI-Amazon-main/public/github/Footer.png" />
+<img src="https://github.com/amandaribeiro0/Clone-UI-Amazonaz/blob/main/public/github/Home.png" />
+<img src="https://github.com/amandaribeiro0/Clone-UI-Amazonaz/blob/main/public/github/cards.png" />
+<img src="https://github.com/amandaribeiro0/Clone-UI-Amazonaz/blob/main/public/github/carousel.png" />
+<img src="https://github.com/amandaribeiro0/Clone-UI-Amazonaz/blob/main/public/github/Footer.png" />
 
 ### ⚙ Pré-requisitos
 
